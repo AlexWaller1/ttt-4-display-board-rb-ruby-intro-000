@@ -1,5 +1,4 @@
 def display_board(board)
-board=[" "," "," "," "," "," "," "," "," "]
 separator="|"
 lines="-----------"
 
